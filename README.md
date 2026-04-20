@@ -60,7 +60,9 @@ Use linguagem simples, prática e em português.
 ---
 
 ## 📸 Interações com a IA
+
 ![Print 1](link) - [*IA gerando fluxo de telas*](https://copilot.microsoft.com/shares/95ycifiWe4GxzqB2hFGFt)
+
 ![Print 2](link) - [*IA definindo personalidade do agente*](https://copilot.microsoft.com/shares/pages/U76AnyHU3zUvai1XRGtk4)
 
 ---
